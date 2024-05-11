@@ -3,7 +3,7 @@
 This is a simple website thatshows how git and github work together.
 
 ## Introduction
-This is intro
+This is intro section
 
 ## Purpose
 
