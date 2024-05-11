@@ -12,6 +12,7 @@ As stated above the main purpose is to provide simple examples for Git training 
 This is a simple web project, deployment can be on amy web server or even local filesystem
 
 ## How to Contribute
+Please fork this repository and then issue a pull request for review.
 
 ### Copyright
 2014 Git.Training
